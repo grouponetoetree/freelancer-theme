@@ -1,1 +1,12 @@
-yello
+---
+layout: default
+modal-id: 1
+date: 2016-09-30
+img: cabin.png
+alt: image-alt
+project-date: September 2016
+client: Resource 2
+category: Resource 2
+description: Resource 2Resource 2Resource 2Resource 2Resource 2Resource 2Resource 2Resource 2Resource 2Resource 2Resource 2
+---
+
