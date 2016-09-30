@@ -354,6 +354,11 @@ footer .footer-below {
     background-color: #{{ site.color.secondary-dark }};
 }
 
+.col-centered {
+float: none;
+margin: 0 auto;
+}
+
 .btn-social {
     display: inline-block;
     width: 50px;
