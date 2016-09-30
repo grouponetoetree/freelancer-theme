@@ -1,0 +1,11 @@
+---
+layout: default
+modal-id: 1
+date: 2016-09-30
+img: cabin.png
+alt: image-alt
+project-date: September 2016
+client: Ethics in a Computing Culture
+category: Computing Ethics
+description: This book outlines a plethora of past cases which violated IT ethics. Also explaining what went wrong and how it effected the parties involved.
+---
