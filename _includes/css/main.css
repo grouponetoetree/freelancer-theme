@@ -63,8 +63,6 @@ ul.tab li a:hover {background-color: #FFF;}
 ul.tab li a:focus, .active {
     background-color: #ccc; 
     color: #fff;
-    opacity: 0.5;
-    filter: alpha(opacity=50); /* For IE8 and earlier */
 }
 
 /* Style the tab content */
@@ -75,7 +73,9 @@ ul.tab li a:focus, .active {
     margin: 0;
     border: 1px solid #ccc;
     border-top: none;
-    color: #{{ site.color.secondary }};
+    color: #{{ site.color.secondary }}
+    opacity: 0.7;
+    filter: alpha(opacity=70);
 }
 h1,
 h2,
