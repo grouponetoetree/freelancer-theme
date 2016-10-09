@@ -60,7 +60,12 @@ ul.tab li a {
 ul.tab li a:hover {background-color: #FFF;}
 
 /* Create an active/current tablink class */
-ul.tab li a:focus, .active {background-color: #ccc; color: #fff;}
+ul.tab li a:focus, .active {
+    background-color: #ccc; 
+    color: #fff;
+    opacity: 0.5;
+    filter: alpha(opacity=50); /* For IE8 and earlier */
+}
 
 /* Style the tab content */
 .tabcontent {
