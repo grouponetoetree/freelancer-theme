@@ -39,7 +39,8 @@ ul.tab {
     padding: 0;
     overflow: hidden;
     border: 1px solid #ccc;
-    background-color: #{{ site.color.secondary }};;
+    background-color: #{{ site.color.secondary }};
+    color: #FFF;
 }
 
 /* Float the list items side by side */
@@ -65,7 +66,7 @@ ul.tab li a:focus, .active {background-color: #ccc;}
 /* Style the tab content */
 .tabcontent {
     display: none;
-    background-color: #{{ site.color.secondary }};
+    background-color: #FFF;
     padding: 6px 12px;
     border: 1px solid #ccc;
     border-top: none;
