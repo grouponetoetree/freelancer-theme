@@ -39,7 +39,8 @@ ul.tab {
     padding: 0;
     overflow: hidden;
     border: 1px solid #ccc;
-    background-color: #{{ site.color.secondary }};
+    background-color: #{{ site.color.secondary }}
+    text-align: center;
 }
 
 /* Float the list items side by side */
