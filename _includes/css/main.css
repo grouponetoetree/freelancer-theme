@@ -35,8 +35,7 @@ a.active {
 /* Style the list */
 ul.tab {
     list-style-type: none;
-    width: 70%;
-    margin: auto;
+    margin: 0;
     padding: 0;
     overflow: hidden;
     border: 1px solid #ccc;
@@ -76,6 +75,23 @@ ul.tab li a:focus, .active {
     border-top: none;
     color: #{{ site.color.secondary }}
 }
+
+.wrapper {
+        text-align: center;
+    }
+    .wrapper ul {
+        display: inline-block;
+        margin: 0;
+        padding: 0;
+        /* For IE, the outcast */
+        zoom:1;
+        *display: inline;
+    }
+    .wrapper li {
+        float: left;
+        padding: 2px 5px;
+        border: 1px solid #ccc;
+    }
 h1,
 h2,
 h3,
