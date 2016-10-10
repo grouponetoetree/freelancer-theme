@@ -463,6 +463,9 @@ margin: 0 auto;
 .portfolio-modal .modal-content .item-details {
     margin: 30px 0;
 }
+.portfolio-modal.footer{
+    color:#ccc;
+}
 
 .portfolio-modal .close-modal {
     position: absolute;
