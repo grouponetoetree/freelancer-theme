@@ -9,5 +9,5 @@ In the first half of the book, Joseph explained what are the morality and ethics
 On the other hand, The book becomes of further use to readers as it provided the points of what should readers know after reading the materials before each chapters, this is very helpful for the users to highly understand the contents of this book.  
 footer: Joseph, J. k (2014) Computer Network Security and Cyber Ethics (Forth edition)
 Retrieved from Monash EBook library - <a href=
-"http://ebookcentral.proquest.com.ezproxy.lib.monash.edu.au/lib/monash/detail.action?docID=1653191">Link to text</a>
+"http://ebookcentral.proquest.com.ezproxy.lib.monash.edu.au/lib/monash/detail.action?docID=1653191">Link to text</a>.
 ---
