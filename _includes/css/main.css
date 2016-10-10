@@ -73,7 +73,7 @@ ul.tab li a:focus, .active {
     margin: 0;
     border: 1px solid #ccc;
     border-top: none;
-    color: #{{ site.color.secondary }}
+    color: #{{ site.color.secondary }};
 }
 
 .wrapper {
